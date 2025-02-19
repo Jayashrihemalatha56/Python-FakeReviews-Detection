@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f803e0c-01bc-4786-851a-fe615ff0ba42" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.idea/PythonFakeReviews.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,18 +38,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Jayashrihemalatha56"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jayashrihemalatha56&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Jayashrihemalatha56/Python-FakeReviews-Detection.git",
-    "accountId": "c158d924-9263-45bb-95bb-12e6ba709f96"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Jayashrihemalatha56/Python-FakeReviews-Detection.git&quot;,
+    &quot;accountId&quot;: &quot;c158d924-9263-45bb-95bb-12e6ba709f96&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -64,25 +58,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.prg1FindDuplicate.executor": "Run",
-    "Python.prg2SVMFakeReviews.executor": "Run",
-    "Python.prgFakeReviewsNN.executor": "Run",
-    "Python.prgKNNFakeReviews.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/dollj/Desktop/PythonFakeReviews/templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.prg1FindDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prg2SVMFakeReviews.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prgFakeReviewsNN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prgKNNFakeReviews.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dollj/Desktop/PythonFakeReviews/templates&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dollj\Desktop\PythonFakeReviews\templates" />
