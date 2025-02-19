@@ -3,11 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-<<<<<<< HEAD
-      - main  # This runs when code is pushed to the `main` branch
-=======
       - main  # Change this if you're using a different branch
->>>>>>> main
 
 jobs:
   deploy:
@@ -26,11 +22,7 @@ jobs:
         run: |
           pip install flask flask-cors gunicorn
 
-<<<<<<< HEAD
-      - name: 🔨 Build static site
-=======
       - name: 🔨 Build static site (if needed)
->>>>>>> main
         run: |
           mkdir -p build
           cp -r templates static build/
@@ -39,10 +31,5 @@ jobs:
       - name: 🚀 Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-<<<<<<< HEAD
-          branch: gh-pages
-          folder: build
-=======
           branch: gh-pages  # Deploy to the `gh-pages` branch
           folder: build  # Deploy the `build` folder
->>>>>>> main
