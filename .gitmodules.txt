@@ -1,0 +1,4 @@
+[submodule "Python-FakeReviews-Detection"]
+    path = Python-FakeReviews-Detection
+    url = https://github.com/Jayashrihemalatha56/Python-FakeReviews-Detection.git
+
