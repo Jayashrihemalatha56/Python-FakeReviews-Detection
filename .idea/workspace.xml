@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f803e0c-01bc-4786-851a-fe615ff0ba42" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="9f803e0c-01bc-4786-851a-fe615ff0ba42" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,8 +79,8 @@
       <recent name="C:\Users\dollj\Desktop\PythonFakeReviews\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dollj\Desktop\PythonFakeReviews" />
       <recent name="C:\Users\dollj\Desktop\PythonFakeReviews\templates" />
+      <recent name="C:\Users\dollj\Desktop\PythonFakeReviews" />
     </key>
   </component>
   <component name="SharedIndexes">
