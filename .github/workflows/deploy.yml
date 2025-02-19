@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # This runs when code is pushed to the `main` branch
+      - gh-pages  # This runs when code is pushed to the `gh-pages` branch
 
 jobs:
   deploy:
@@ -26,7 +26,7 @@ jobs:
         run: |
           mkdir -p build
           cp -r templates static build/
-          cp app.py build/
+          cp index.html build/
 
       - name: 🚀 Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
